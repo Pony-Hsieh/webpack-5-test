@@ -1,0 +1,1 @@
+!function(){"use strict";var e;["Roya","Owen","Eric"].findIndex((e=>"Owen"===e)),e="inviteCode",e=new URL(window.location.href).searchParams.get(e)}();
